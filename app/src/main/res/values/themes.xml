@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.Lab14" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Lab14" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Colores base que puedes personalizar -->
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryDark">#3700B3</item>
+        <item name="colorAccent">#03DAC5</item>
+    </style>
 </resources>

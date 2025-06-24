@@ -9,3 +9,4 @@ class HistorialActivity : AppCompatActivity() {
         setContentView(R.layout.activity_historial)
     }
 }
+

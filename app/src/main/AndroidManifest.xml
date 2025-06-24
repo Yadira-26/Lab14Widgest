@@ -24,9 +24,14 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".WorkActivity" />
-        <activity android:name=".HistorialActivity" />
-        <activity android:name=".NuevaTareaActivity" />
+        <activity
+            android:name=".HistorialActivity"
+            android:theme="@style/Theme.Lab14" />
+
+
+        <activity
+            android:name=".NuevaTareaActivity"
+            android:theme="@style/Theme.Lab14" />
 
         <receiver android:name=".AccesosRapidosWidget"
             android:exported="true">

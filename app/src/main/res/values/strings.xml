@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab-14</string>
+    <string name="historial">Historial</string>
+    <string name="nueva_tarea">Nueva Tarea</string>
 </resources>
